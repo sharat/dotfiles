@@ -33,3 +33,5 @@ brew install mongodb
 brew install rbenv
 brew install fish
 
+brew cleanup
+
